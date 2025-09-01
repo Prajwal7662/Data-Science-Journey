@@ -1,0 +1,56 @@
+data-science-journey/
+│
+├── 01_Python_Basics/
+│   ├── python_basics.ipynb
+│   ├── README.md
+│
+├── 02_NumPy/
+│   ├── numpy_basics.ipynb
+│   ├── README.md
+│
+├── 03_Pandas/
+│   ├── pandas_basics.ipynb
+│   ├── README.md
+│
+├── 04_Data_Visualization/
+│   ├── matplotlib_basics.ipynb
+│   ├── seaborn_basics.ipynb
+│   ├── README.md
+│
+├── 05_Statistics/
+│   ├── statistics_basics.ipynb
+│   ├── probability_basics.ipynb
+│   ├── README.md
+│
+├── 06_Machine_Learning/
+│   ├── linear_regression.ipynb
+│   ├── logistic_regression.ipynb
+│   ├── decision_tree.ipynb
+│   ├── README.md
+│
+├── 07_Deep_Learning/
+│   ├── neural_network_basics.ipynb
+│   ├── cnn_basics.ipynb
+│   ├── README.md
+│
+├── 08_NLP/
+│   ├── text_preprocessing.ipynb
+│   ├── sentiment_analysis.ipynb
+│   ├── README.md
+│
+├── 09_Time_Series/
+│   ├── arima_basics.ipynb
+│   ├── lstm_forecasting.ipynb
+│   ├── README.md
+│
+├── 10_Big_Data/
+│   ├── pyspark_basics.ipynb
+│   ├── README.md
+│
+├── 11_Projects/
+│   ├── titanic_EDA.ipynb
+│   ├── house_prices_prediction.ipynb
+│   ├── stock_price_analysis.ipynb
+│   ├── README.md
+│
+├── README.md
